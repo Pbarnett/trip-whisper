@@ -1,0 +1,3 @@
+- Do not rename env vars without explicit instruction.
+- Return CORS headers from every edge function.
+- Use React-Hook-Form + Tailwind for forms.
